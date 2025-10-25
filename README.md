@@ -65,6 +65,7 @@ The single most valuable benefit for any student developer is the **GitHub Stude
 | **RoboForm** | Free 1-year subscription to RoboForm Everywhere for secure data and password management. | [RoboForm College Verification](https://www.roboform.com/promotions/college-verify) |
 | **Spotify** | Discounted premium subscription, often bundled with other streaming services (e.g., Hulu).  | [Spotify Premium Student](https://www.spotify.com/us/student/) |
 | **The New York Times**| Free or discounted digital subscription to news and articles (check your school library/portal). | [NYT Academic Pass](https://www.nytimes.com/subscription/education) |
+| **Notion**  | Free upgrade to the Plus Plan, and can work with up to 100 guests in their workspace. | [Notion Education Plan](https://www.notion.com/help/notion-for-education) |
 
 ---
 
