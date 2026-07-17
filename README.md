@@ -41,8 +41,8 @@ The single most valuable benefit for any student developer is the **GitHub Stude
 | Tool/Service | Featured Perks | Provider/Program |
 | :--- | :--- | :--- |
 | **DataCamp** | Free access to over 350 courses and all premium content for data science and R/Python. | [GitHub Student Developer Pack](https://www.datacamp.com/github-students) |
-  | **Educative** | Free Cloud hosting credit (e.g., $\$200$) to deploy and scale applications. | [GitHub Student Developer Pack](https://education.github.com/pack/) |
-| **Frontend Masters** | Access to the AWS Educate program, offering credits, training, and a career portal. | [Frontend Masters](https://frontendmasters.com/) |
+| **Educative** | Free 6 months of access to select interactive coding courses and browser-based programming paths. | [GitHub Student Developer Pack](https://education.github.com/pack/) |
+| **Frontend Masters** | Free 6 months of access to all courses, workshops, and learning paths on modern web development. | [Frontend Masters](https://frontendmasters.com/) |
 | **Unity Learn** | Free 12-month access to the Unity Pro Student Plan and premium learning content.  | [Unity Education](https://unity.com/products/unity-for-education) |
 | **LinkedIn Learning**| Free or discounted access to thousands of video courses (check if your university provides access). | [UBC Human Resources](https://hr.ubc.ca/career-development/workplace-learning-opportunities/linkedin-learning) |
 
@@ -66,6 +66,20 @@ The single most valuable benefit for any student developer is the **GitHub Stude
 | **Spotify** | Discounted premium subscription, often bundled with other streaming services (e.g., Hulu).  | [Spotify Premium Student](https://www.spotify.com/us/student/) |
 | **The New York Times**| Free or discounted digital subscription to news and articles (check your school library/portal). | [NYT Academic Pass](https://www.nytimes.com/subscription/education) |
 | **Notion**  | Free upgrade to the Plus Plan, and can work with up to 100 guests in their workspace. | [Notion Education Plan](https://www.notion.com/help/notion-for-education) |
+
+---
+
+## Student Ambassador & Campus Expert Programs
+
+Beyond standard benefits and discounts, many tech companies offer student leadership and ambassador programs. These programs allow you to represent the company on your campus, build local developer communities, and gain exclusive mentorship, training, and premium resources.
+
+| Program | Focus / Role | Key Perks & Benefits | Link |
+| :--- | :--- | :--- | :--- |
+| **GitHub Campus Experts** | Build and support technical student communities on campus. | Leadership training, public speaking training, event funding, GitHub swag, and a global network. | [GitHub Campus Experts](https://education.github.com/campus_experts) |
+| **Microsoft Learn Student Ambassadors** | Lead local tech groups and host workshops/hackathons. | Free Azure credits, Visual Studio Enterprise subscription, Microsoft certification vouchers, and mentorship. | [Microsoft Student Ambassadors](https://studentambassadors.com) |
+| **Google Developer Groups (GDG) on Campus** | Organise community workshops and solve local challenges. | Access to Google-run events, Google Developers training, guidance from Google Developers, and community resources. | [GDG on Campus](https://developers.google.com/community) |
+| **AWS Student Builder Groups** | Host AWS and Cloud-focused communities at your university. | Mentorship from AWS experts, AWS credits, certification support, and leadership development. | [AWS Student Builder Groups](https://aws.amazon.com/developer/community/student-builder-groups/) |
+| **Notion Campus Leaders** | Teach Notion, build productivity templates, and run campus events. | Premium Notion team support, early feature updates, community networking, and exclusive resources/swag. | [Notion Community](https://www.notion.so/community) |
 
 ---
 
