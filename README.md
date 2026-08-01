@@ -17,16 +17,16 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 ## 📖 Table of Contents
 
-- [🛠️ Development Tools](#-development-tools)
+- [🛠️ Development Tools](#%EF%B8%8F-development-tools)
 - [☁️ Cloud & Hosting](#%EF%B8%8F-cloud--hosting)
 - [📚 Learning Platforms](#-learning-platforms)
 - [🎨 Design & Media](#-design--media)
-- [⚡ Productivity & Other](#-productivity--other)
-- [🏅 Ambassador & Campus Expert Programs](#-student-ambassador--campus-expert-programs)
+- [⚡ Productivity & Utilities](#-productivity--utilities)
+- [🏅 Ambassador & Campus Leader Programs](#-student-ambassador--campus-leader-programs)
 - [✅ How to Verify Your Student Status](#-how-to-verify-your-student-status)
 - [🤝 Contributing](#-contributing)
 
-> **Legend:** &ensp; 🆓 = Completely Free &ensp;|&ensp; 💲 = Free Credits / Limited Time &ensp;|&ensp; 🏷️ = Discounted
+> **Legend:** &ensp; 🆓 = Completely Free &ensp;|&ensp; 💲 = Free Credits / Trial &ensp;|&ensp; 🏷️ = Student Discount
 
 ---
 
@@ -37,11 +37,18 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
-| 🆓 | **[GitHub Pro](https://github.com/education/students)** | Unlimited private repos, advanced code review, GitHub Codespaces credits. | GitHub Education |
-| 🆓 | **[JetBrains All Products Pack](https://www.jetbrains.com/edu-products/download/)** | Full suite of IDEs — IntelliJ IDEA, PyCharm, WebStorm, and more. | JetBrains for Students |
-| 🆓 | **[Visual Studio & Azure Dev Tools](https://azure.microsoft.com/en-gb/free/students)** | Visual Studio Community + Microsoft developer tools & learning resources. | Microsoft Imagine |
-| 🆓 | **[Postman Student Expert](https://www.postman.com/student-program/student-expert/)** | Postman Pro plan for API development and collaboration. | Postman Student Program |
-| 💲 | **[Namecheap](https://education.github.com/pack/)** | Free `.me` domain for 1 year + free SSL certificate. | GitHub Student Dev Pack |
+| 🆓 | **[GitHub Pro & Student Pack](https://education.github.com/pack)** | GitHub Pro, Codespaces credits, Copilot access, and partner perks. | GitHub Education |
+| 🆓 | **[JetBrains All Products Pack](https://www.jetbrains.com/community/education/#students)** | Free subscriptions for IntelliJ IDEA, PyCharm, WebStorm, CLion, etc. | JetBrains Education |
+| 🆓 | **[Visual Studio Community & Azure Dev Tools](https://azure.microsoft.com/en-us/free/students/)** | Free IDE tools, Windows developer software, and training. | Microsoft Education |
+| 🆓 | **[Postman Student Program](https://www.postman.com/student-program/student-expert/)** | Free Postman Student Expert certification & Pro plan perks. | Postman |
+| 🆓 | **[GitKraken Client & Suite](https://www.gitkraken.com/github-student-developer-pack)** | GitKraken Pro Git client, GitLens+, and Developer Suite. | GitHub Student Dev Pack |
+| 🆓 | **[MongoDB Atlas](https://www.mongodb.com/students)** | $50 in credits, free certification, and MongoDB University. | GitHub Student Dev Pack |
+| 💲 | **[Domain.com / Namecheap / Name.com](https://education.github.com/pack)** | Free 1-year domain name registration (.me, .tech, .live) + free SSL. | GitHub Student Dev Pack |
+| 🆓 | **[Bootstrap Studio](https://bootstrapstudio.io/pages/student-license)** | Free license for Desktop web design app for Bootstrap. | GitHub Student Dev Pack |
+| 🆓 | **[Sentry](https://sentry.io/welcome/github-students/)** | 500k free error events per month for software monitoring. | GitHub Student Dev Pack |
+| 🆓 | **[Termius](https://termius.com/education)** | Free Termius Pro SSH & SFTP client across desktop & mobile. | GitHub Student Dev Pack |
+| 🆓 | **[Tower Git Client](https://www.git-tower.com/students)** | Free 1-year license for Tower Git Client for macOS and Windows. | Tower Education |
+| 🆓 | **[Sublime Text / Merge](https://www.sublimetext.com/)** | Student discount / free tier for lightweight fast text and Git editing. | Student Verification |
 
 </details>
 
@@ -54,11 +61,17 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
-| 💲 | **[Microsoft Azure](https://azure.microsoft.com/en-gb/free/students)** | $100 in Azure credits + 25 free services. No credit card needed. | Azure for Students |
-| 💲 | **[DigitalOcean](https://education.github.com/pack/)** | $200 in cloud hosting credits to deploy & scale apps. | GitHub Student Dev Pack |
-| 💲 | **[Amazon Web Services (AWS)](https://aws.amazon.com/education/)** | AWS Educate credits, training modules, and a career portal. | AWS Educate |
-| 💲 | **[Heroku](https://heroku.com/github-students/signup)** | Free platform credits for cloud hosting & deployment. | GitHub Student Dev Pack |
-| 💲 | **[Google Cloud](https://developers.google.com/edu)** | Free credits for computing, storage, and ML services. | Google Cloud for Students |
+| 💲 | **[Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/)** | $100 annual cloud credit + 25+ free cloud services (no credit card needed). | Azure for Students |
+| 💲 | **[DigitalOcean](https://www.digitalocean.com/github-students)** | $200 in hosting credits valid for 1 year. | GitHub Student Dev Pack |
+| 💲 | **[Amazon Web Services (AWS Educate)](https://aws.amazon.com/education/awseducate/)** | Free cloud credits, cloud hands-on labs, and training pathways. | AWS Educate |
+| 🆓 | **[Vercel](https://vercel.com/)** | Generous Hobby tier for hosting frontend & serverless apps. | Vercel |
+| 🆓 | **[Netlify](https://www.netlify.com/)** | Free starter plan for static site hosting and serverless functions. | Netlify |
+| 💲 | **[Google Cloud for Students](https://edu.google.com/programs/students/)** | Cloud credits, training credits, and Qwiklabs access. | Google Cloud Education |
+| 💲 | **[Heroku](https://education.github.com/pack)** | $13/month in credits for 12 months for Dynos and managed databases. | GitHub Student Dev Pack |
+| 💲 | **[Hetzner Cloud](https://www.hetzner.com/)** | €50 in cloud credits for server hosting. | GitHub Student Dev Pack |
+| 🆓 | **[Render](https://render.com/)** | Free tier for web services, static sites, and PostgreSQL databases. | Render |
+| 💲 | **[Supabase](https://supabase.com/)** | Generous free tier for backend-as-a-service, Auth, and Postgres. | Supabase |
+| 💲 | **[Cloudflare](https://www.cloudflare.com/)** | Free tier SSL, CDN, DDoS protection, Workers, and Pages hosting. | Cloudflare |
 
 </details>
 
@@ -71,11 +84,17 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
-| 🆓 | **[DataCamp](https://www.datacamp.com/github-students)** | Full access to 350+ courses on data science, R, and Python. | GitHub Student Dev Pack |
-| 💲 | **[Educative](https://education.github.com/pack/)** | 6 months free — interactive coding courses & browser-based learning paths. | GitHub Student Dev Pack |
-| 💲 | **[Frontend Masters](https://frontendmasters.com/)** | 6 months free — all courses, workshops & learning paths on modern web dev. | Frontend Masters |
-| 💲 | **[Unity Learn](https://unity.com/products/unity-for-education)** | 12 months free — Unity Pro Student Plan + premium learning content. | Unity Education |
-| 🆓 | **[LinkedIn Learning](https://hr.ubc.ca/career-development/workplace-learning-opportunities/linkedin-learning)** | Thousands of video courses (check if your university provides access). | Via your university |
+| 🆓 | **[DataCamp](https://www.datacamp.com/github-students)** | 3 months free access to 350+ data science & AI courses. | GitHub Student Dev Pack |
+| 💲 | **[Educative.io](https://www.educative.io/github-students)** | 6 months free of 60+ interactive text-based coding courses. | GitHub Student Dev Pack |
+| 💲 | **[Frontend Masters](https://frontendmasters.com/welcome/github-student-developer-pack/)** | 6 months free access to web development video courses & paths. | GitHub Student Dev Pack |
+| 💲 | **[Unity Learn](https://unity.com/products/unity-for-education)** | 12 months free Unity Student Plan + premium learning platform. | Unity Education |
+| 🆓 | **[LinkedIn Learning](https://www.linkedin.com/learning/)** | Free unlimited access to 16,000+ courses (via eligible university library/portal). | Via University SSO |
+| 💲 | **[One Month](https://onemonth.com/)** | 30-day free subscription to intro coding bootcamps. | GitHub Student Dev Pack |
+| 🆓 | **[LeetCode](https://leetcode.com/)** | Free access to core problem set + student discounts on LeetCode Premium. | Student Verification |
+| 🆓 | **[Codecademy](https://www.codecademy.com/student-center)** | Student discount / free basic access to interactive lessons. | Codecademy Pro Student |
+| 🆓 | **[Coursera](https://www.coursera.org/for-university-and-college-students)** | Free access to university courses and certificate projects (varies by campus). | Coursera for Students |
+| 🆓 | **[O'Reilly Learning Platform](https://www.oreilly.com/)** | Unlimited books and video courses (if provided by your institution). | Via University Library |
+| 🆓 | **[Scrimba](https://scrimba.com/)** | Interactive frontend coding courses & tutorials. | Scrimba Student discount |
 
 </details>
 
@@ -88,48 +107,65 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
-| 🆓 | **[Figma](https://www.figma.com/education/)** | Figma Professional Plan for collaborative design & prototyping. | Figma for Education |
-| 🆓 | **[Canva](https://www.canva.com/education/)** | Canva Pro for graphic design, documents, and visual content. | Canva for Education |
-| 🆓 | **[Autodesk](https://www.autodesk.com/support/account/education/students-educators/overview)** | AutoCAD, Revit, Fusion 360, and more professional 3D design tools. | Autodesk Education |
-| 💲 | **[Tableau](https://www.tableau.com/academic/students)** | 1-year license for Tableau Desktop — data analysis & visualization. | Tableau for Students |
-| 🏷️ | **[Adobe Creative Cloud](https://www.adobe.com/acrobat/pricing/students.html)** | Up to 60–70% off Photoshop, Illustrator, Premiere Pro, and the full CC suite. | Adobe Student Edition |
+| 🆓 | **[Figma Education](https://www.figma.com/education/)** | Free Figma Professional plan (UI/UX design, FigJam, Dev Mode). | Figma Education |
+| 🆓 | **[Canva for Education](https://www.canva.com/education/)** | Free premium design suite, templates, and AI tools for students. | Canva Education |
+| 🆓 | **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** | 1-year free license for AutoCAD, Fusion 360, Maya, 3ds Max, Revit. | Autodesk Education |
+| 🏷️ | **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html)** | Over 60% off Photoshop, Illustrator, Premiere Pro, and full CC suite. | Adobe Student Discount |
+| 🆓 | **[Tableau Academic](https://www.tableau.com/academic/students)** | Free 1-year license for Tableau Desktop and Prep Builder. | Tableau for Students |
+| 🆓 | **[Icons8](https://icons8.com/github-students)** | Free 3-month subscription for icons, illustrations, photos, and music. | GitHub Student Dev Pack |
+| 🆓 | **[IconScout](https://iconscout.com/github-students)** | Download 60 premium vector icons/illustrations per month for 1 year. | GitHub Student Dev Pack |
+| 🆓 | **[Framer](https://www.framer.com/education/)** | Free annual subscription to Framer Pro for interactive websites. | Framer Education |
+| 🆓 | **[Rive](https://rive.app/pricing)** | Free Pro tier for creating real-time interactive vector animations. | Rive Education |
+| 🆓 | **[Shutterstock](https://www.shutterstock.com/)** | 10 free images/assets package via student partner programs. | GitHub Student Dev Pack |
+| 🆓 | **[Lucidchart](https://www.lucidchart.com/pages/use-case/education)** | Free educational upgrade for flowcharts and diagramming. | Lucid Education |
 
 </details>
 
 ---
 
-## ⚡ Productivity & Other
+## ⚡ Productivity & Utilities
 
 <details open>
 <summary><strong>Click to expand / collapse</strong></summary>
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
-| 🆓 | **[Microsoft 365](https://www.microsoft.com/en-us/education/products/office)** | Word, Excel, PowerPoint, OneNote + 1 TB OneDrive storage. | Microsoft 365 Education |
-| 💲 | **[LastPass](https://www.lastpass.com/solutions/education)** | 6 months free — LastPass Premium for secure password management. | LastPass for Education |
-| 💲 | **[RoboForm](https://www.roboform.com/promotions/college-verify)** | 1 year free — RoboForm Everywhere for password & data management. | RoboForm College Verification |
-| 🏷️ | **[Spotify](https://www.spotify.com/us/student/)** | Discounted Premium, often bundled with Hulu & Showtime. | Spotify Student |
-| 🆓 | **[The New York Times](https://www.nytimes.com/subscription/education)** | Free or discounted digital access (check your school library portal). | NYT Academic Pass |
-| 🆓 | **[Notion](https://www.notion.com/help/notion-for-education)** | Free Plus Plan upgrade + up to 100 guest collaborators. | Notion Education Plan |
+| 🆓 | **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** | Free Word, Excel, PowerPoint, Teams, OneNote + 1 TB OneDrive storage. | School Email (.edu) |
+| 🆓 | **[Notion Education Plan](https://www.notion.so/product/notion-for-education)** | Free Notion Plus plan upgrade with unlimited file uploads & AI features. | School Email (.edu) |
+| 🏷️ | **[Spotify + Hulu Bundle](https://www.spotify.com/us/student/)** | Discounted Spotify Premium bundled with Hulu (with ads). | Spotify Student |
+| 🆓 | **[1Password](https://1password.com/github-students)** | 1 year free of 1Password developer package. | GitHub Student Dev Pack |
+| 💲 | **[LastPass Premium](https://www.lastpass.com/solutions/education)** | 6 months free LastPass Premium password manager. | LastPass Education |
+| 🆓 | **[RoboForm Everywhere](https://www.roboform.com/promotions/college-verify)** | 1 year free RoboForm password manager for students. | RoboForm College Verification |
+| 🆓 | **[Todoist Pro](https://todoist.com/)** | 50% discount / free trial credits on Todoist Pro task manager. | Todoist Education |
+| 🆓 | **[Overleaf (LaTeX)](https://www.overleaf.com/)** | Free collaborative online LaTeX editor (premium via university portal). | Overleaf |
+| 🆓 | **[Grammarly Premium](https://www.grammarly.com/edu)** | Free or discounted writing assistant (if provided by school/library). | School Access |
+| 🆓 | **[The New York Times](https://www.nytimes.com/subscription/education)** | Free full digital news subscription via academic library portal. | NYT Academic Pass |
+| 🏷️ | **[GitHub Copilot](https://github.com/features/copilot)** | Free AI pair programmer access included with GitHub Student Developer Pack. | GitHub Education |
+| 🆓 | **[Perplexity AI](https://www.perplexity.ai/)** | Student referral promotions for free Perplexity Pro search credits. | Perplexity Student |
 
 </details>
 
 ---
 
-## 🏅 Student Ambassador & Campus Expert Programs
+## 🏅 Student Ambassador & Campus Leader Programs
 
-Go beyond just using tools — **represent** a company, **build** your campus community, and **gain** exclusive mentorship & resources.
+Represent leading tech companies on campus, organize developer events, and access exclusive mentorship and resources.
 
 <details open>
 <summary><strong>Click to expand / collapse</strong></summary>
 
-| Program                                 | What You'll Do                                           | Key Perks                                                                      | Apply                                                                         |
-| :----------------------------------------| :---------------------------------------------------------| :-------------------------------------------------------------------------------| :-----------------------------------------------------------------------------:|
-| **GitHub Campus Experts**               | Build & support technical student communities on campus. | Leadership & public speaking training, event funding, swag, global network.    | [Apply →](https://education.github.com/campus_experts)                        |
-| **Microsoft Learn Student Ambassadors** | Lead local tech groups, host workshops & hackathons.     | Azure credits, VS Enterprise, certification vouchers, mentorship.              | [Apply →](https://studentambassadors.com)                                     |
-| **Google Developer Groups on Campus**   | Organize community workshops & solve local challenges.   | Google-run events, developer training, guidance & community resources.         | [Apply →](https://developers.google.com/community)                            |
-| **AWS Student Builder Groups**          | Host AWS & cloud-focused communities at your university. | AWS expert mentorship, credits, certification support, leadership development. | [Apply →](https://aws.amazon.com/developer/community/student-builder-groups/) |
-| **Notion Campus Leaders**               | Teach Notion, create templates & run campus events.      | Premium team support, early feature access, networking, exclusive swag.        | [Apply →](https://www.notion.so/community)                                    |
+| Program | What You'll Do | Key Perks | Apply |
+| :--- | :--- | :--- | :---: |
+| **GitHub Campus Experts** | Build & support technical student communities on campus. | Leadership & public speaking training, event funding, swag, global network. | [Apply →](https://education.github.com/campus_experts) |
+| **Microsoft Learn Student Ambassadors** | Lead local tech groups, host workshops & hackathons. | Azure credits, VS Enterprise, certification vouchers, mentorship. | [Apply →](https://studentambassadors.com) |
+| **Google Developer Student Clubs (GDSC / GDG)** | Organize community workshops & solve local challenges. | Google-run events, developer training, guidance & community resources. | [Apply →](https://developers.google.com/community) |
+| **AWS Student Builder Groups** | Host AWS & cloud-focused communities at your university. | AWS expert mentorship, credits, certification support, leadership development. | [Apply →](https://aws.amazon.com/developer/community/student-builder-groups/) |
+| **Notion Campus Leaders** | Teach Notion, create templates & run campus events. | Premium team support, early feature access, networking, exclusive swag. | [Apply →](https://www.notion.so/community) |
+| **MLH Local Hack Day / Campus Director** | Organize hackathons and coding clubs on your campus. | Event support, hardware access, sponsor swag, organizing guides. | [Apply →](https://mlh.io/) |
+| **Postman Student Leader** | Promote API literacy and host Postman workshops on campus. | Event support, Postman swag, direct connection with Postman team. | [Apply →](https://www.postman.com/student-program/student-leader/) |
+| **Intel Student Ambassador** | Host workshops on AI, deep learning, and hardware acceleration. | Access to Intel DevCloud, hardware support, event sponsorship. | [Apply →](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html) |
+| **JetBrains Campus Ambassador** | Promote JetBrains IDEs and host local tech events. | Free JetBrains licenses, branded swag, event budget support. | [Apply →](https://www.jetbrains.com/) |
+| **Red Hat Student Ambassador** | Share open-source knowledge and Linux skills. | Red Hat certifications, mentorship, community networking. | [Apply →](https://www.redhat.com/en/services/training) |
 
 </details>
 
