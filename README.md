@@ -130,6 +130,7 @@ A curated list of free & discounted tools, platforms, and programs for students.
 
 | | Tool / Service | What You Get | How to Access |
 | :---: | :--- | :--- | :--- |
+| 🆓 | **[Kilobat Pro for Students](https://kilobat.app/students)** | Free Mac network diagnostics Pro for one year on two Macs; renewable while studying. | Students aged 13+ in degree-granting programs; school email |
 | 🆓 | **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** | Free Word, Excel, PowerPoint, Teams, OneNote + 1 TB OneDrive storage. | School Email (.edu) |
 | 🆓 | **[Notion Education Plan](https://www.notion.so/product/notion-for-education)** | Free Notion Plus plan upgrade with unlimited file uploads & AI features. | School Email (.edu) |
 | 🏷️ | **[Spotify + Hulu Bundle](https://www.spotify.com/us/student/)** | Discounted Spotify Premium bundled with Hulu (with ads). | Spotify Student |
